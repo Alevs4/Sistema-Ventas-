@@ -1,0 +1,39 @@
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.exe.config
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.exe
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.pdb
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.xml
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form1.resources
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Resources.resources
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.vbproj.GenerateResource.Cache
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.exe
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.xml
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.pdb
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form_Principal.resources
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form2.resources
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form3.resources
+c:\users\minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form_Prueba.resources
+C:\Users\Minsal\documents\visual studio 2013\Projects\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.vbprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.exe.config
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.exe
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.xml
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.pdb
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.exe
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.pdb
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.xml
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form_Prueba.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Form_Principal.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Resources.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.vbproj.GenerateResource.Cache
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Productos.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Ventas.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Clientes.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Compras.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Empleados.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Pagos.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.AgregarProducto.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.Login.resources
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.vbprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.exe.manifest
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\bin\Debug\GUI_MODERNO.application
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.exe.manifest
+C:\Users\Ignacio\Desktop\GUI_MODERNO\GUI_MODERNO\obj\Debug\GUI_MODERNO.application

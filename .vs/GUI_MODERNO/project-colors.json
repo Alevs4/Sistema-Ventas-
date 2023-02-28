@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfca1900-e6ea-48b4-85fe-2e849ec583d3": {
+      "ProjectGuid": "dfca1900-e6ea-48b4-85fe-2e849ec583d3",
+      "DisplayName": "Sistema Inventario",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

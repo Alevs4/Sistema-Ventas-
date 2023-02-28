@@ -1,0 +1,20 @@
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.AgregarCategoria.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.AgregarMarca.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.AgregarProducto.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Configuracion.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.EditarProducto.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.IngresarCompra.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Login.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.MantenedorMarcaCategoria.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.MantenedorProveedores.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.MantenedorUsuarios.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Reporte.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.ReporteCompras.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.VentaNuevaFactura.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Ventas.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Productos.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Compras.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Form_Principal.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\GUI_MODERNO.Resources.resources
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\Sistema Inventario.vbproj.GenerateResource.cache
+C:\Users\j9249\Documents\Visual Studio 2017\ultimo\GUI_MODERNO\obj\Release\Sistema Inventario.vbproj.CoreCompileInputs.cache
