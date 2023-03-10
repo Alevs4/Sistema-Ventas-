@@ -176,14 +176,14 @@ Public Class VentaNuevaFactura
             SQL19("SP_CARGAR_DATOS_PRODUCTO_DESDE_DGV('" & (grillaBuscarProducto.CurrentRow.Cells(0).Value) & "')")
             'conexion.Close()
             For i = 0 To DS19.Tables(DT19.TableName).Rows.Count - 1
-                txtCodigoProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("cod_prod")
-                txtCodigoBarras.Text = DS19.Tables(DT19.TableName).Rows(0).Item("barrasopcional")
-                txtProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("nombre")
-                txtMarca.Text = DS19.Tables(DT19.TableName).Rows(0).Item("marca")
-                txtCategoria.Text = DS19.Tables(DT19.TableName).Rows(0).Item("categoria")
-                txtPrecio.Text = DS19.Tables(DT19.TableName).Rows(0).Item("precio")
-                txtStock.Text = DS19.Tables(DT19.TableName).Rows(0).Item("cantidad")
-                txtValorCompra.Text = DS19.Tables(DT19.TableName).Rows(0).Item("precio_compra")
+                txtCodigoProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Código de Producto")
+                txtCodigoBarras.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Código de Barras")
+                txtProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Producto")
+                txtMarca.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Marca")
+                txtCategoria.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Categoria")
+                txtPrecio.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Precio")
+                txtStock.Text = DS19.Tables(DT19.TableName).Rows(0).Item("cantidad en Stock")
+                txtValorCompra.Text = DS19.Tables(DT19.TableName).Rows(0).Item("precio compra")
             Next
         Catch ex As Exception
             MsgBox(ex.Message.ToString())
@@ -452,4 +452,6 @@ Public Class VentaNuevaFactura
     Private Sub panelBuscarProducto_Paint(sender As Object, e As PaintEventArgs) Handles panelBuscarProducto.Paint
 
     End Sub
+
+
 End Class

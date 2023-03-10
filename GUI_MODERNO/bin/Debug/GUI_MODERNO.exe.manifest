@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GUI_MODERNO.exe" size="1378304">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GUI_MODERNO.exe" size="1379840">
       <assemblyIdentity name="GUI_MODERNO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mK39CgjUfpp6UILJ2IaCCiAQs/4JRC4In+Dw9jjU/sU=</dsig:DigestValue>
+        <dsig:DigestValue>+Rj5l4jRYY9bJ2dCEkrdsukeZEgrW6KUqYMPCijGrIs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -588,13 +588,13 @@
             SQL19("SP_CARGAR_DATOS_PRODUCTO_DESDE_DGV('" & (grillaBuscarProducto.CurrentRow.Cells(0).Value) & "')")
             conexion.Close()
             For i = 0 To DS19.Tables(DT19.TableName).Rows.Count - 1
-                txtCodigoBarras.Text = DS19.Tables(DT19.TableName).Rows(0).Item("barrasopcional")
-                txtProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("nombre")
-                txtDescripcion.Text = DS19.Tables(DT19.TableName).Rows(0).Item("descripcion")
-                txtPrecioVenta.Text = DS19.Tables(DT19.TableName).Rows(0).Item("precio")
-                txtCodigoProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("cod_prod")
-                txtCantidadActual.Text = DS19.Tables(DT19.TableName).Rows(0).Item("cantidad")
-                txtPrecioCompra.Text = DS19.Tables(DT19.TableName).Rows(0).Item("precio_compra")
+                txtCodigoBarras.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Código de Barras")
+                txtProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Producto")
+                txtDescripcion.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Descripcion")
+                txtPrecioVenta.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Precio")
+                txtCodigoProducto.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Código de Producto")
+                txtCantidadActual.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Cantidad en Stock")
+                txtPrecioCompra.Text = DS19.Tables(DT19.TableName).Rows(0).Item("Precio Compra")
                 txtCantidadAgregar.Focus()
                 lblEstado.Text = ""
             Next
